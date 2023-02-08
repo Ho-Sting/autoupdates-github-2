@@ -8163,16 +8163,16 @@
         },
         {
             "name": "kint-php/kint",
-            "version": "5.0.2",
+            "version": "5.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kint-php/kint.git",
-                "reference": "b2effe979abe59caf090b89b607fb0256e467139"
+                "reference": "03169f1923966c815223adbb3eccf831a3423578"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kint-php/kint/zipball/b2effe979abe59caf090b89b607fb0256e467139",
-                "reference": "b2effe979abe59caf090b89b607fb0256e467139",
+                "url": "https://api.github.com/repos/kint-php/kint/zipball/03169f1923966c815223adbb3eccf831a3423578",
+                "reference": "03169f1923966c815223adbb3eccf831a3423578",
                 "shasum": ""
             },
             "require": {
@@ -8222,9 +8222,9 @@
             ],
             "support": {
                 "issues": "https://github.com/kint-php/kint/issues",
-                "source": "https://github.com/kint-php/kint/tree/5.0.2"
+                "source": "https://github.com/kint-php/kint/tree/5.0.3"
             },
-            "time": "2023-01-02T23:46:00+00:00"
+            "time": "2023-01-31T12:53:37+00:00"
         },
         {
             "name": "mglaman/phpstan-drupal",
