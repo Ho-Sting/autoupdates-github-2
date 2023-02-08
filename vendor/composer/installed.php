@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'e88f1fda5041ecd2fd907d1e4c7fcbfc2b5248bc',
         'name' => 'drupal/legacy-project',
         'dev' => true,
     ),
@@ -560,12 +560,12 @@
             'dev_requirement' => false,
         ),
         'drupal/legacy-project' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'e88f1fda5041ecd2fd907d1e4c7fcbfc2b5248bc',
             'dev_requirement' => false,
         ),
         'drupal/module_filter' => array(
@@ -704,12 +704,12 @@
             'dev_requirement' => true,
         ),
         'kint-php/kint' => array(
-            'pretty_version' => '5.0.2',
-            'version' => '5.0.2.0',
+            'pretty_version' => '5.0.3',
+            'version' => '5.0.3.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../kint-php/kint',
             'aliases' => array(),
-            'reference' => 'b2effe979abe59caf090b89b607fb0256e467139',
+            'reference' => '03169f1923966c815223adbb3eccf831a3423578',
             'dev_requirement' => true,
         ),
         'league/container' => array(
